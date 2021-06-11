@@ -1,2 +1,1 @@
-# Neuron net handler flask api based
-## Coming soon
+# Net api for tender hack
